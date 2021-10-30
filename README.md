@@ -6,6 +6,13 @@ In the First Module, We trained the VGG16 Model with Custom Dataset. The dataset
 In the Second module, the paddy pest is detected from the video input. 
 
 
+## SOFTWARE REQUIREMENT
+Google Colab (GPU) - For VGG16 Training
+
+Anaconda with Jupyter Notebook
+
+## PROGRAMMING LANGUAGE - PYTHON
+
 
 ### RESOURCES
 
