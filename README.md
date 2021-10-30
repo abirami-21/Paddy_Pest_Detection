@@ -11,7 +11,9 @@ Google Colab (GPU) - For VGG16 Training
 
 Anaconda with Jupyter Notebook
 
-## PROGRAMMING LANGUAGE - PYTHON
+## PROGRAMMING LANGUAGE 
+
+PYTHON -3.6
 
 
 ### RESOURCES
